@@ -1,0 +1,3 @@
+learning file handling in python
+this is DAY 4 
+appending new line 
