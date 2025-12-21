@@ -5,5 +5,5 @@ I understood how frequency - based logic works in problems in problems like anag
 I still find it difficult to independently decide the best approach for new DSA problem without guided thinking.
 
 ## One improvement for next week 
-I will focus on understanding problem - solving approaches first in plain English before writing any code.
+I will focus on understanding problem- solving approaches first in plain English before writing any code.
 
